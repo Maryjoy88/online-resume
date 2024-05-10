@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.resume {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+}
+
+.header {
+    text-align: center;
+    background-color:rgba(179, 208, 241, 0.87) ;
+}
+
+.image {
+   width: 200px;
+   height: 200px;
+   margin: 0;
+   border: 2px solid black;
+   position: absolute; left: 300px; 
+}
+
+.contact {
+    margin-top: 20px;
+}
+
+.profile,
+.certification,
+.experience,
+.interests {
+    margin-top: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #555;
+}
+
+h3 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    color: #666
+}
+
+.x {
+    color: #666;
+}
+
+.y {
+    color: #666;
+}
